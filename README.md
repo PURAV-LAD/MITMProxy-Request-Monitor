@@ -1,5 +1,8 @@
 Request-Monitor-MITMPROXY
 
+Install: mitmproxy using
+pip install mitmproxy
+
 This project allows you to capture and monitor HTTP/HTTPS requests using MITMProxy.
 Files:
     cli_capture_core.py: Start with this script to understand the basics of how the capture process works.
