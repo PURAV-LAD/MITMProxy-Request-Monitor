@@ -1,4 +1,4 @@
-Request-Monitor-MITMPROXY
+MITMProxy-Request-Monitor
 
 Install library:
 pip install mitmproxy
