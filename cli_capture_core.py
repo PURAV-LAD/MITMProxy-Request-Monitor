@@ -1,5 +1,5 @@
 # Download Certificate From the http://mitm.it/ after applying proxy to localhost with port 8080  in windows proxy Setting; 127.0.0.1:8080
-# mitmproxy -s capture.py
+# mitmproxy -s cli_capture_core.py
 import tkinter as tk
 from mitmproxy import http
 
