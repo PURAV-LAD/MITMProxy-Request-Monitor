@@ -1,6 +1,6 @@
 Request-Monitor-MITMPROXY
 
-Install: mitmproxy using
+Install library:
 pip install mitmproxy
 
 This project allows you to capture and monitor HTTP/HTTPS requests using MITMProxy.
